@@ -2,7 +2,7 @@
 
 **`Analista De Dados`**
 
-Me chamo **Kawe Matheus dos Santos Silva**, tenho 21 anos e sou apaixonado por criar coisas como planilhas e outras soluções. Atualmente, estou estudando Power BI, Excel, Python e SQL, em busca do meu primeiro emprego na área de TI. Compartilho meu portfólio através do meu canal no YouTube "[Kawe Matheus](https://www.youtube.com/@KaweMatheusTi)", onde publico vídeos sobre meus projetos.
+Me chamo **Kawe Matheus dos Santos Silva**, eu tenho 21 anos e sou apaixonado por criar coisas como planilhas e outras soluções. Atualmente, estou estudando Power BI, Excel, Python e SQL, em busca do meu primeiro emprego na área de TI. Compartilho meu portfólio através do meu canal no YouTube "[Kawe Matheus](https://www.youtube.com/@KaweMatheusTi)", onde publico vídeos sobre meus projetos.
 
 <p align="left">
     <a href="https://www.youtube.com/@KaweMatheusTi?sub_confirmation=1">
