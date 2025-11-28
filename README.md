@@ -38,6 +38,7 @@ Me chamo **Kawe Matheus dos Santos Silva**, eu tenho 21 anos e sou apaixonado po
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="Python" 
@@ -46,13 +47,6 @@ Me chamo **Kawe Matheus dos Santos Silva**, eu tenho 21 anos e sou apaixonado po
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 
-    <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/deicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
